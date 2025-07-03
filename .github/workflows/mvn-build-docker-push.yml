@@ -5,7 +5,7 @@ on:
     tags:
       - 'v*'  # only trigger on version tags like v0.1.0
 env:
-  IMAGE_NAME: jayasekara/microservice-user
+  IMAGE_NAME: jayasekara/yuklid-user-service
 
 jobs:
   build:
